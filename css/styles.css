@@ -1,0 +1,52 @@
+.Before {
+  width: 300px;
+  float: left;
+}
+
+.Before img {
+  width: 100%;
+  height: 300px;
+}
+
+.During {
+  width: 300px;
+  float: left;
+}
+
+.During img {
+  width: 100%;
+  height: 300px;
+}
+
+.After {
+  width: 300px;
+  float: left;
+}
+
+.After img {
+  width: 100%;
+  height: 300px;
+}
+
+body {
+  background-color: wheat;
+}
+
+p {
+  font-style: italic;
+  font-family: cursive;
+  font-weight: 500;
+}
+
+h1 {
+  text-align: center;
+  color: skyblue;
+}
+
+h2 {
+  color: olive;
+}
+
+h3 {
+  text-align: center;
+}
