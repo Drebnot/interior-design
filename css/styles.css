@@ -1,6 +1,10 @@
 .Before {
   width: 300px;
   float: left;
+  border: 3px solid gold;
+  background-color: silver;
+  margin: 5px;
+  padding: 5px;
 }
 
 .Before img {
@@ -11,6 +15,10 @@
 .During {
   width: 300px;
   float: left;
+  border: 3px solid gold;
+  background-color: tan;
+  margin: 5px;
+  padding: 5px;
 }
 
 .During img {
@@ -21,11 +29,16 @@
 .After {
   width: 300px;
   float: left;
+  border: 3px solid gold;
+  background-color: gold;
+  margin: 5px;
+  padding: 5px;
 }
 
 .After img {
   width: 100%;
   height: 300px;
+
 }
 
 body {
